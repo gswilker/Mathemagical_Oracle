@@ -1,0 +1,11 @@
+# Objects archives
+*.o
+
+# Binaries
+*.exe
+
+# Logs
+*.log
+
+# Temporary system files
+*.tmp
